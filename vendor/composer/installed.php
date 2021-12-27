@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => 'e0d309b070d9289420434b09c5ac0b5d3bb9cd06',
+    'reference' => '22e641a59c08bf45a251f52ec534162409790831',
     'name' => 'cyz/composer_test',
   ),
   'versions' => 
@@ -18,7 +18,7 @@
       'aliases' => 
       array (
       ),
-      'reference' => 'e0d309b070d9289420434b09c5ac0b5d3bb9cd06',
+      'reference' => '22e641a59c08bf45a251f52ec534162409790831',
     ),
   ),
 );
