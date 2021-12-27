@@ -1,5 +1,5 @@
 <?php
-
+//
 namespace Yxz\ComposerTest;
 
 class Calc
